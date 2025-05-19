@@ -18,7 +18,7 @@ function textoNaTela(tag, texto){
 }
 function mensagemInicial() {
     textoNaTela('h1', 'Jogo do número secreto!');
-    textoNaTela('p', 'Escolha um número de 1 a 10 e tente adivinhar!');
+    textoNaTela('p', 'Escolha um número de 1 a 100 e tente adivinhar!');
 }
 
 mensagemInicial();
